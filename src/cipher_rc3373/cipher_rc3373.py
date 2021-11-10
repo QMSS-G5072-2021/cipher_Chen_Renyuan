@@ -17,7 +17,7 @@ def cipher(text, shift, encrypt=True):
     Examples
     --------
     >>> from cipher_rc3373 import cipher_rc3373
-    >>> cipher('Love', 1, encrypt=True)
+    >>> cipher_rc3373.cipher('Love', 1, encrypt=True)
     'Mpwf'
     """
     alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
