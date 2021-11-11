@@ -2,6 +2,9 @@
 
 cipher package created by Renyuan Chen
 
+## Documentation
+[https://cipher-rc3373.readthedocs.io/en/latest/](https://cipher-rc3373.readthedocs.io/en/latest/)
+
 ## Installation
 
 ```bash
